@@ -60,5 +60,3 @@ export function Appointment({ data, ...rest }: Props) {
     </RectButton>
   );
 }
-
-//https://www.youtube.com/watch?v=xAPnD5RG4oI 2:06:52

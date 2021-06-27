@@ -6,6 +6,6 @@ export const styles = StyleSheet.create({
   container: {
     minHeight: 120,
     maxHeight: 120,
-    padding: 24,
+    paddingHorizontal: 24,
   },
 });
