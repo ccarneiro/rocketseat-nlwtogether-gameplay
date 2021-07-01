@@ -9,6 +9,7 @@ export const styles = StyleSheet.create({
   overlay: {
     flex: 1,
     backgroundColor: theme.colors.overlay,
+    justifyContent: 'flex-end',
   },
   bar: {
     width: 39,
